@@ -1,0 +1,23 @@
+.signup_div{
+    padding-left: 35%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    /* background: linear-gradient(#1D1A39, #451952, #662549, #451952, #1D1A39); */
+    background: linear-gradient(#AE445A 0%, #F39F5A 50%, #F39F5A 75%, #AE445A 100%);
+}
+
+.signup_cont{
+    height: 300px;
+    width: 250px;
+    padding: 5%;
+    border: 1px solid black;
+    text-align: center;
+    background: linear-gradient(#1D1A39, #662549, #662549, #1D1A39);
+    color: #F39F5A;
+    /* background: linear-gradient(#AE445A 0%, #F39F5A 50%, #F39F5A 75%, #AE445A 100%); */
+}
+
+
+.signup_cont div label{
+    font-size: small;
+}

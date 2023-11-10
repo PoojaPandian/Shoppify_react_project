@@ -1,0 +1,27 @@
+.signin_div{
+    padding-left: 35%;
+    padding-top: 6%;
+    padding-bottom: 5%;
+    /* background: linear-gradient(#1D1A39, #451952, #662549, #451952, #1D1A39); */
+    background: linear-gradient(#AE445A 0%, #F39F5A 50%, #F39F5A 75%, #AE445A 100%);
+}
+
+.signin_cont{
+    height: 300px;
+    width: 300px;
+    padding: 5%;
+    border: 1px solid black;
+    text-align: center;
+    background: linear-gradient(#1D1A39, #662549, #662549, #1D1A39);
+    color: #F39F5A;
+    /* background: linear-gradient(#AE445A 0%, #F39F5A 50%, #F39F5A 75%, #AE445A 100%); */
+}
+
+.signin_cont div label{
+    font-size: small;
+}
+
+.button1 button{
+    border-color: #AE445A;
+    background-color:#F39F5A ;
+  }

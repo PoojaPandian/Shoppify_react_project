@@ -1,0 +1,36 @@
+#header nav{
+  background: linear-gradient(#1D1A39, #451952, #662549);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
+  position: fixed;
+  width: 100%;
+
+}
+
+.label{
+  height: 90% ;
+  color: #F39F5A ; 
+  padding: 4px ; 
+  font: icon ; 
+  font-family: fantasy;
+}
+  
+#header input{
+  height: 80%;
+  border-color: #F39F5A;
+  width: 90%;
+}
+
+.button button{
+  height: 90%;
+  border-color: #AE445A;
+  background-color:#F39F5A ;
+}
+
+.button{
+  display: flex;
+  padding-right: 2%;
+  gap: 10px;
+}

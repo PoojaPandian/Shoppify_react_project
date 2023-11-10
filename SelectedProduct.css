@@ -1,0 +1,31 @@
+.div1{
+  display: flex ;
+  justify-content: space-between ;
+  padding-top: 5%;
+}
+
+.button_div{
+  font-size: 25px;
+  margin-top: 10px;
+  color: #451952;
+}
+
+.d2d{
+  width: 300px;
+  height: 300px;
+}
+
+.d2d div{
+  padding-left: 45%;
+}
+
+.d2d .img-div{
+  width: 250px;
+  height: 250px;
+  padding-left: 25px;
+}
+
+.d3d button{
+  background: linear-gradient(#451952, #662549);
+  color: wheat;
+}
